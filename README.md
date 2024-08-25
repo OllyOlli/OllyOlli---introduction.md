@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olly</h1>
+<h1 align="center">Hi 👋, I'm ~/Olly_ </h1>
 <h3 align="center">A passionate test analyst</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Java, Linux, framework Selenium, Cucumber, POM, testing ...**
