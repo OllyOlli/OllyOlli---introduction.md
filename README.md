@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ~/Olly_ </h1>
-<h3 align="center">A passionate manual/ automation tester and test engineer</h3>
+<h3 align="center">A inquisitive manual/ automation tester and test engineer</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Java, Linux, framework Selenium, Cucumber, POM, testing ...**
 
